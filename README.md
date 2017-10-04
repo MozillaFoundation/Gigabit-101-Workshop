@@ -22,6 +22,8 @@ We created this workshop as a way to:
 
 The workshop has worked well for facilitated groups of 20-30 participants.
 
+---
+
 ## GET STARTED
 
 There are two files in the Activity Scripts folder: 
@@ -31,6 +33,8 @@ There are two files in the Activity Scripts folder:
 
 Each activity guide, and the sample agenda, references items that need to be printed for each corresponding activity. 
 Printed items are available in the Printable Workshop Materials folder.
+
+---
 
 ## Sample description/invitation to workshop:
 
