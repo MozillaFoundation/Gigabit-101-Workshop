@@ -5,7 +5,7 @@ TABLE OF CONTENTS
 
 * [intro](#intro)
 * [get started](#get-started)
-* [sample description/invitation to workshop:](#sample-description-invitation-to-worshop)
+* [sample invitation to workshop](#sample-invitation-to-workshop)
 
 ## INTRO
 
@@ -43,7 +43,7 @@ Printed items are available in the Printable Workshop Materials folder.**
 
 ---
 
-## Sample description/invitation to workshop:
+## Sample Invitation to Workshop
 
 **What does the promise of a high-speed internet network mean for your city/school/organization, and how can you help define the impact of this network on your community?**
 
