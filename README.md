@@ -53,3 +53,4 @@ Printed items are available in the Printable Workshop Materials folder.**
 ---
 
 <img src="https://www-archive.mozilla.org/foundation/identity-guidelines/mozilla-foundation-onblack.png" width="150"></img>
+<img src="https://static1.squarespace.com/static/53259b48e4b0c9379cff3c8f/t/594d4d8786e6c034bf40ab00/1498238347936/?format=750w" width="275"></img>
