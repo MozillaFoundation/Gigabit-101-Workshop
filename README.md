@@ -28,7 +28,7 @@ The workshop has worked well for facilitated groups of 20-30 participants.
 
 There are two files in the Activity Scripts folder: 
 
-- one is a slidedeck that a facilitator can use to walk through the activities;
+- one is a slide deck that a facilitator can use to walk through the activities;
 - the other is a sample agenda that references the potential order of activities; 
 
 Each activity guide, and the sample agenda, references items that need to be printed for each corresponding activity. 
@@ -38,9 +38,9 @@ Printed items are available in the Printable Workshop Materials folder.
 
 ## Sample description/invitation to workshop:
 
-What does the promise of a high speed internet network mean for your city/school/organization, and how can you help define the impact of this network on your community?
+What does the promise of a high-speed internet network mean for your city/school/organization, and how can you help define the impact of this network on your community?
 
-high speed networks with their seemingly unlimited capacity and lightening fast connections can bring a lot of power to a community from: 
+High-speed networks with their seemingly unlimited capacity and lightning-fast connections can bring a lot of power to a community from: 
 
 - enhancing public health; 
 - improving transportation infrastructure; 
@@ -48,4 +48,4 @@ high speed networks with their seemingly unlimited capacity and lightening fast 
 
 But, what do you do with it? And, how can you actually leverage these connections to create opportunity and improve quality of life?
 
-Join us from [time] [date] for a workshop focused on demystifying high speed internet, and helping you shape the story of high speed networks for [your community].
+Join us from [time] [date] for a workshop focused on demystifying high-speed internet, and help you shape the story of high-speed networks for [your community].
