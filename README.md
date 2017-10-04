@@ -5,7 +5,7 @@ TABLE OF CONTENTS
 
 * [intro](#intro)
 * [get started](#get-started)
-* [sample description/invitation to workshop:](#sample-description/invitation-to-worshop:)
+* [sample description/invitation to workshop:](#sample-description-invitation-to-worshop)
 
 ## INTRO
 
