@@ -49,3 +49,7 @@ Printed items are available in the Printable Workshop Materials folder.**
 **But, what do you do with it? And, how can you actually leverage these connections to create opportunity and improve quality of life?**
 
 **Join us from [time] [date] for a workshop focused on demystifying high-speed internet, and help you shape the story of high-speed networks for [your community].**
+
+---
+
+<img src="https://www-archive.mozilla.org/foundation/identity-guidelines/mozilla-foundation-onblack.png" width="150"></img>
