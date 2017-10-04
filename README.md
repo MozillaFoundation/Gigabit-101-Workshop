@@ -1,5 +1,12 @@
 # Gigabit-101-Workshop
 
+TABLE OF CONTENTS
+====================
+
+* [intro](#intro)
+* [get started](#get-started)
+* [Sample description/invitation to workshop:](#sample-description/invitation-to-worshop)
+
 ## INTRO
 
 **The Mozilla Gigabit Community Fund (https://learning.mozilla.org/en-US/gigabit/) provides grant funding in select U.S. communities to support pilot tests of gigabit technologies such as:**
